@@ -4,7 +4,7 @@
 > Due to data loss, the full source code is currently unavailable. This repository serves as an archive of the logic and the original output results.
 
 ## 📝 About the Project
-G-Cricket is a Python-based console application that simulates a cricket match. It allows users to manage teams, simulate overs, and track scores in real-time.
+G-Cricket is a Python-based console application that simulates a cricket match. It allows users to create teams, manage team, track scores in real-time,and many more..
 
 **Tech Stack:** Python (Core)
 
@@ -12,10 +12,7 @@ G-Cricket is a Python-based console application that simulates a cricket match. 
 
 ## 📸 Gallery & Functionality
 Since the full code is missing, here is the visual proof of the project's functionality:
-
-### 1. Main Menu
-*(Description of what happens here...)*
-![Main Menu](screenshorts)
+**Screenshorts Floder**
 ---
 
 ## 📂 The Code

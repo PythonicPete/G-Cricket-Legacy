@@ -15,7 +15,7 @@ Since the full code is missing, here is the visual proof of the project's functi
 
 ### 1. Main Menu
 *(Description of what happens here...)*
-![Main Menu](outputprojects.docx)
+![Main Menu](screenshorts)
 ---
 
 ## 📂 The Code
